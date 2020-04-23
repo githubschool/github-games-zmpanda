@@ -8,4 +8,4 @@ You can play the game at: https://githubschool.github.io/github-games-zmpanda/
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
 
-Project is maintained by @zmpanda
+This project is maintained by @zmpanda
